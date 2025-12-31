@@ -19,6 +19,7 @@ namespace Tutorial
         {
             string name =TextBox1.Text;
             Label1.Text = "Welcome " + name + "!";
+            Label1.Text="asp.net"+name+ "!";
         }
 
         protected void TextBox1_TextChanged(object sender, EventArgs e)
