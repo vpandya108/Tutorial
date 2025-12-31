@@ -19,7 +19,7 @@
             <asp:Button ID="Button1" runat="server" Text="Submit" OnClick="Button1_Click"  />
             <br />
             <br />
-            <asp:Label ID="Label1" runat="server" Text=" " Font-Size="Large" forecolor="#000000"></asp:Label>
+            <asp:Label ID="Label1" runat="server" Text=" " Font-Size="Large"  Font-Italic="true"="#000000"></asp:Label>
 
 
 
